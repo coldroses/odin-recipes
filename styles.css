@@ -3,22 +3,28 @@
 h1 {
     font-family: "Papyrus", fantasy;
     color: tan;
+    border: 2px dotted maroon;
+    padding: 3.5;
     size: 27.5px;
 }
 
 h2 {
     font-family: "Lucida Console", "Courier New", monospace;
     color: tan;
-    size: 24.75px;
+    border: 2px solid maroon;
+    padding: 3;
+    font-size: 24.75px;
 }
 
 p {
     font-family: "Times New Roman", serif;
     font-weight: 300;
+    margin: 0 25 0 25;
     background-color: tan;
 }
 
 img {
     height: auto;
     width: 321px;
+    margin: 5;
 }
